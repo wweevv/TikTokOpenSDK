@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
      s.swift_version     = '5.0'
      # change the source location
      s.source            = { :http => 'https://github.com/wweevv/TikTokOpenSDK/blob/main/TikTokOpenSDK.xcframework.zip', :flatten => false}
-     s.ios.deployment_target = '15.2'
+     s.ios.deployment_target = '13.0'
      #s.vendored_frameworks = 'TikTokOpenSDK.xcframework' 
      s.preserve_paths = '*'
 
