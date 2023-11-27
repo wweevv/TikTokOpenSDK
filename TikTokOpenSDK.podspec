@@ -15,7 +15,7 @@
 
 Pod::Spec.new do |s|
      s.name              = 'TikTokOpenSDK' # Name for your pod
-     s.version           = '1.0.0'
+     s.version           = '5.0.15'
      s.summary           = 'Sample Spec'
      s.homepage          = 'https://github.com/wweevv/TikTokOpenSDK'
 
